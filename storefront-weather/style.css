@@ -1,0 +1,23 @@
+/*
+Theme Name: Storefront Weather
+Template: storefront
+Version: 1.0
+*/
+
+/* Add your custom styles here */
+
+.city-search {
+    margin-bottom: 20px;
+}
+
+.city-search-input {
+    margin-right: 10px;
+}
+
+.pagination-wrapper {
+    margin-bottom: 20px;
+}
+
+.pagination-btn {
+    margin-right: 10px;
+}
